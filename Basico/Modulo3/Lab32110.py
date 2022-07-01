@@ -1,5 +1,5 @@
 #Autor: Christopher Ivan Garcia Avila
-#Fecha: 15 de Junio de 2022
+#Fecha: 1 de Julio de 2022
 #Descripcion: Uso de if-elif-else con for y continue
 
 user_word = input("Ingresa una palabra: ")# Indicar al usuario que ingrese una palabra
