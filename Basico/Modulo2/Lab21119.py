@@ -1,7 +1,9 @@
 '''
-    Autor: Pablo Uriel Rosas Vargas
+------------------------------------------------------------
+    Autor: Christopher Iva Garcia Avila
     Fecha: 14 de Junio de 2022
     Descripcion: Uso de operadores 
+------------------------------------------------------------
 '''
 print("    *\n","  * *")
 print("  *   *\n", "*     *")
