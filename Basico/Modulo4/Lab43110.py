@@ -1,6 +1,6 @@
-# Nombre: Pablo Uriel Rosas Vargas
-# Fecha: 15 de Junio de 2022
-# Descripcion: Saber si un numero es primo o impar
+#Autor: Christopher Ivan Garcia Avila
+#Fecha: 1 de Julio de 2022
+#Descripcion: Saber si un numero es primo o impar
 
 # 1 milla (mile) = 1609.344 metros(metres)
 # 1 galón (gallon) = 3.785411784 litros(litres)
