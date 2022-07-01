@@ -1,6 +1,6 @@
-# Nombre: Pablo Uriel Rosas Vargas
-# Fecha: 15 de Junio de 2022
-# Descripcion: Creando una funcion para años bisiestos o comunes
+#Autor: Christopher Ivan Garcia Avila
+#Fecha: 1 de Julio de 2022
+#Descripcion: Creando una funcion para años bisiestos o comunes
 
 def is_year_leap(year):
 	if year % 4 != 0:
