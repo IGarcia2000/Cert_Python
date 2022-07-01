@@ -1,6 +1,6 @@
-# Nombre: Pablo Uriel Rosas Vargas
-# Fecha: 15 de Junio de 2022
-# Descripcion: Uso de ciclo for anidado
+#Autor: Christopher Ivan Garcia Avila
+#Fecha: 15 de Junio de 2022
+#Descripcion: Uso de ciclo for anidado
 
 income = float(input("Introduce el ingreso anual: "))
 
