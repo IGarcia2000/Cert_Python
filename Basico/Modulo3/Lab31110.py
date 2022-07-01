@@ -1,5 +1,5 @@
-# Autor: Christopher Ivan Garcia Avila
-# Fecha: 15 de Junio de 2022
+#Autor: Christopher Ivan Garcia Avila
+#Fecha: 1 de Julio de 2022
 # Descripcion: Uso de if para comparacion de cadenas
 
 n = input("Ingresa la palabra: ")
