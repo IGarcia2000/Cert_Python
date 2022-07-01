@@ -1,5 +1,5 @@
 #Autor: Christopher Ivan Garcia Avila
-#Fecha: 15 de Junio de 2022
+#Fecha: 1 de Julio de 2022
 #Descripcion: Manejo de listas sin repeticiones
 
 my_list = [1, 2, 4, 4, 1, 4, 2, 6, 2, 9]
