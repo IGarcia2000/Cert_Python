@@ -1,7 +1,9 @@
 '''
+------------------------------------------------------------
     Autor: Christopher Iva Garcia Avila
     Fecha: 14 de Junio de 2022
     Descripcion: Uso de sep y end
+------------------------------------------------------------
 '''
 print("Fundamentos", "Programación","en", sep="***", end="...")
 print("Python")
