@@ -1,6 +1,6 @@
-# Nombre: Pablo Uriel Rosas Vargas
-# Fecha: 15 de Junio de 2022
-# Descripcion: Uso de una lista basica
+#Autor: Christopher Ivan Garcia Avila
+#Fecha: 15 de Junio de 2022
+#Descripcion: Uso de una lista basica
 
 hat_list = [1, 2, 3, 4, 5]  # Esta es una lista existente de números ocultos en el sombrero.
 
