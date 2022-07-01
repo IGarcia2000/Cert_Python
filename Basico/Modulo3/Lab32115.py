@@ -1,5 +1,5 @@
 #Autor: Christopher Ivan Garcia Avila
-#Fecha: 15 de Junio de 2022
+#Fecha: 1 de Julio de 2022
 #Descripcion: Uso de while para evaluar un numero
 
 c0 = int(input("Ingresa c0: "))
