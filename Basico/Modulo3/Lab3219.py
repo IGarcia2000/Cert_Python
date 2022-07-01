@@ -1,6 +1,6 @@
-# Nombre: Pablo Uriel Rosas Vargas
-# Fecha: 15 de Junio de 2022
-# Descripcion: Usar el while con el break 
+#Autor: Christopher Ivan Garcia Avila
+#Fecha: 15 de Junio de 2022
+#Descripcion: Usar el while con el break 
 
 word = input("Ingresa una palabra o ingresa la palabra secreta: ")
 
