@@ -1,6 +1,6 @@
-# Nombre: Pablo Uriel Rosas Vargas
-# Fecha: 15 de Junio de 2022
-# Descripcion: Uso de while para la creacion de una piramide
+#Autor: Christopher Ivan Garcia Avila
+#Fecha: 15 de Junio de 2022
+#Descripcion: Uso de while para la creacion de una piramide
 
 blocks = int(input("Ingresa el número de bloques: "))
 
