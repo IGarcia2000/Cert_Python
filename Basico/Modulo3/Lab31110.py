@@ -1,4 +1,4 @@
-# Nombre: Pablo Uriel Rosas Vargas
+# Autor: Christopher Iva Garcia Avila
 # Fecha: 15 de Junio de 2022
 # Descripcion: Uso de if para comparacion de cadenas
 
