@@ -1,5 +1,5 @@
 #Autor: Christopher Ivan Garcia Avila
-#Fecha: 15 de Junio de 2022
+#Fecha: 1 de Julio de 2022
 #Descripcion: Usar el While de forma basica
 
 secret_number = 777
