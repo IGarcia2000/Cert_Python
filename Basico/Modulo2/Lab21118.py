@@ -1,5 +1,5 @@
 
-#Autor: Christopher Iva Garcia Avila
+#Autor: Christopher Ivan Garcia Avila
 #Fecha: 14 de Junio de 2022
 #Descripcion: Uso de sep y end
 
