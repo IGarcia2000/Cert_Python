@@ -1,6 +1,6 @@
-# Nombre: Pablo Uriel Rosas Vargas
-# Fecha: 15 de Junio de 2022
-# Descripcion: Funcion de años bisiestos mas los dias de los meses
+#Autor: Christopher Ivan Garcia Avila
+#Fecha: 1 de Julio de 2022
+#Descripcion: Funcion de años bisiestos mas los dias de los meses
 
 def is_year_leap(year):
 	if year % 4 != 0:
