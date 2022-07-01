@@ -1,4 +1,4 @@
-# Autor: Christopher Iva Garcia Avila
+# Autor: Christopher Ivan Garcia Avila
 # Fecha: 15 de Junio de 2022
 # Descripcion: Uso de if para comparacion de cadenas
 
