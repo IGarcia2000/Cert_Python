@@ -1,6 +1,6 @@
-# Nombre: Pablo Uriel Rosas Vargas
-# Fecha: 15 de Junio de 2022
-# Descripcion: Usar de forma basica el ciclo for
+#Autor: Christopher Ivan Garcia Avila
+#Fecha: 15 de Junio de 2022
+#Descripcion: Usar de forma basica el ciclo for
 import time
 
 for i in range(1, 6): # Escribe un bucle for que cuente hasta cinco.
