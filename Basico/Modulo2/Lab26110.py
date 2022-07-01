@@ -1,4 +1,4 @@
-#Autor: Pablo Uriel Rosas Vargas
+#Autor: Christopher Ivan Garcia Avila
 #Fecha: 14 de Junio de 2022
 #Descripcion: Expresiones algebraicas 
 
